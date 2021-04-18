@@ -1,0 +1,18 @@
+.retechgen-focus{
+    width: 100vw;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    .focus-title{
+        flex: 1;
+    }
+    .focus-row{
+        flex: 3;
+        height: 300px;
+        border-top-left-radius: 300px;
+        border-bottom-left-radius: 300px;
+        background: red;
+    }
+}

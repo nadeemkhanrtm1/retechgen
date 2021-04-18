@@ -5,7 +5,6 @@ const Home = () => {
     return (
         <div className="retechgen-home-container">
             <div>
-                
                 <h2>Best IT Solution Providers For<br/> Cloud- Based Applications and Infrastructure</h2>
                 <button>
                     Know More

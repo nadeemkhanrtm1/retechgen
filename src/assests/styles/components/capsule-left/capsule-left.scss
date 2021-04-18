@@ -1,0 +1,18 @@
+.retechgen-capsule-left{
+    // width: 100vw;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    .capsule-left-row{
+        flex: 3;
+        background-color: red;
+        height: 300px;
+        border-top-right-radius: 300px;
+        border-bottom-right-radius: 300px;
+    }
+    .capsule-left-title{
+        flex: 1;
+    }
+}
