@@ -4,8 +4,8 @@ import HomeBanner from "../../assests/images/home-banner.png";
 const Home = () => {
     return (
         <div className="retechgen-home-container">
-            <div>
-                <h2>Best IT Solution Providers For<br/> Cloud- Based Applications and Infrastructure</h2>
+            <div className="rtg-home-col">
+                <h2>Best IT Solution<br/> Providers For <span>Cloud- Based<br/> Applications</span> & <span>Infrastructure</span></h2>
                 <button>
                     Know More
                 </button>
